@@ -16,7 +16,7 @@ F1 score: 0.9560439560439562
 ---
 I serialized my model with the help of pickle (there are other methods of serializing too but I prefer pickle). Then I prepared a web application on Django as the backend and HTML and CSS on frontend. I used Heruko which works as Platform as a service(PAAS) for deploying my web application on server.
 
-https://predictspam.herokuapp.com/
+https://predict-spam.herokuapp.com/
 
 # Requirements
 ---
